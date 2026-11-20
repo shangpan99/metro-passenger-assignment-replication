@@ -1,0 +1,33 @@
+{
+  "replicates": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "total_passengers": 800,
+  "train_capacity": 80,
+  "window_sizes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "computation_time_limit_seconds": 1800,
+  "gurobi_threads": 1,
+  "gurobi_seed": 1,
+  "gurobi_mip_gap": 0.0,
+  "memory_sample_interval_seconds": 0.2,
+  "watchdog_extra_seconds": 720,
+  "gurobi_mip_start": false,
+  "methods": [
+    "FULL",
+    "LB1"
+  ]
+}

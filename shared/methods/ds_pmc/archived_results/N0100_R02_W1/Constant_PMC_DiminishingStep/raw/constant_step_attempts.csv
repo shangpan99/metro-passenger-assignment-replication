@@ -1,0 +1,1 @@
+record_type,iteration,step_k,step_fraction,od_id,donor_path,donor_departure,receiver_path,receiver_departure,donor_count,q,moved_agent_ids,unit_minus_benefit,unit_plus_cost,unit_net_gain,predicted_objective_delta,actual_objective_delta,objective_before,accepted,objective,best_objective,best_iteration,elapsed_seconds,candidate_objective

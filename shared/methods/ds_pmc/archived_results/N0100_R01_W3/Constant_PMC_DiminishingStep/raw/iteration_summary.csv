@@ -1,0 +1,14 @@
+iteration,objective,total_travel_time,total_waiting_time,state_version,active_od,neighborhood_order,moved_agent_count,elapsed_seconds,record_type,accepted_by,h_order,q,donor_path,donor_departure,receiver_path,receiver_departure,moved_agent_ids,actual_objective_delta,objective_before,second_od,second_donor_path,second_donor_departure,second_receiver_path,second_receiver_departure,second_q,second_depth,second_moved_agent_ids,move_type,surrogate_objective_delta
+0,3172,3172,666,0,,0,0,0,INITIAL,INITIAL,0,0,,,,,,,,,,,,,,,,,
+1,3172,3172,666,1,5,0,21,0.0086203,ACCEPTED,constant_first_unit_pmc,0,21,6,16,6,17,1;10;18;20;30;31;37;38;56;65;66;69;70;73;74;76;79;84;88;91;96,0,3172,,,,,,,,,SINGLE,-84
+2,3171,3171,665,2,3,0,7,0.0179063,ACCEPTED,constant_first_unit_pmc,0,7,3,25,3,26,57;58;61;80;85;98;99,-1,3172,,,,,,,,,SINGLE,-7
+3,3173,3173,667,3,5,0,7,0.0259159,ACCEPTED,constant_first_unit_pmc,0,7,6,17,6,15,74;76;79;84;88;91;96,2,3171,,,,,,,,,SINGLE,-7
+4,3165,3165,659,4,6,0,2,0.0353947,ACCEPTED,constant_first_unit_pmc,0,2,7,16,7,17,90;97,-8,3173,,,,,,,,,SINGLE,-8
+5,3163,3163,657,5,5,0,1,0.0448811,ACCEPTED,constant_first_unit_pmc,0,1,6,15,6,17,96,-2,3165,,,,,,,,,SINGLE,-5
+6,3162,3162,656,6,8,0,1,0.0547871,ACCEPTED,constant_first_unit_pmc,0,1,11,3,11,4,95,-1,3163,,,,,,,,,SINGLE,-4
+7,3161,3161,655,7,8,0,1,0.0645679,ACCEPTED,constant_first_unit_pmc,0,1,11,3,11,4,75,-1,3162,,,,,,,,,SINGLE,-4
+8,3160,3160,654,8,8,0,1,0.0741116,ACCEPTED,constant_first_unit_pmc,0,1,11,3,11,4,72,-1,3161,,,,,,,,,SINGLE,-4
+9,3159,3159,653,9,8,0,1,0.0840476,ACCEPTED,constant_first_unit_pmc,0,1,11,3,11,4,53,-1,3160,,,,,,,,,SINGLE,-4
+10,3158,3158,652,10,8,0,1,0.0940559,ACCEPTED,constant_first_unit_pmc,0,1,11,3,11,4,46,-1,3159,,,,,,,,,SINGLE,-4
+11,3157,3157,651,11,5,0,1,0.10381,ACCEPTED,constant_first_unit_pmc,0,1,6,17,6,15,96,-1,3158,,,,,,,,,SINGLE,-4
+12,3158,3158,652,12,5,0,1,0.1134855,ACCEPTED,constant_first_unit_pmc,0,1,6,15,6,17,96,1,3157,,,,,,,,,SINGLE,-2

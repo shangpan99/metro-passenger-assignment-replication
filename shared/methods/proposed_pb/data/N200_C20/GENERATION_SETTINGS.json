@@ -1,0 +1,57 @@
+{
+  "master_seed": 20261023,
+  "replicates": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "total_passengers": 200,
+  "train_capacity": 20,
+  "window_sizes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "od_weights": [
+    9,
+    11,
+    11,
+    13,
+    21,
+    9,
+    11,
+    11
+  ],
+  "od_departure_centers": [
+    7,
+    7,
+    25,
+    25,
+    16,
+    16,
+    3,
+    3
+  ],
+  "proposed_J": 1,
+  "proposed_Bmax": 11,
+  "approximate_ell_max": 8,
+  "computation_time_limit_seconds": 1800,
+  "gurobi_threads": 1,
+  "gurobi_seed": 1,
+  "gurobi_mip_gap": 0.0,
+  "memory_sample_interval_seconds": 0.2,
+  "watchdog_extra_seconds": 720,
+  "initialization": "SHORTEST_MIDDLE_EARLY",
+  "random_scheme": "Random OD membership with original sampling probabilities; deterministic shortest path and earlier-middle departure",
+  "timing_definition": "Input loading/model preprocessing and search share the 1800-second computation budget; final export and optional validation are reported separately.",
+  "proposed_terminal_two_step": true
+}

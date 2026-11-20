@@ -1,0 +1,6 @@
+{
+  "computation_time_limit_seconds": 1800,
+  "gurobi_threads": 1,
+  "gurobi_seed": 1,
+  "gurobi_mip_gap": 0.0
+}

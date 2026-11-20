@@ -1,0 +1,6 @@
+# Excerpt from the original Gurobi console log.
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (win64 - Windows 11+.0 (26300.2))
+Explored 1 nodes (1683 simplex iterations) in 24.59 seconds (46.75 work units)
+Solution count 2: 24328 25340 
+Optimal solution found (tolerance 0.00e+00)
+Best objective 2.432800000000e+04, best bound 2.432800000000e+04, gap 0.0000%

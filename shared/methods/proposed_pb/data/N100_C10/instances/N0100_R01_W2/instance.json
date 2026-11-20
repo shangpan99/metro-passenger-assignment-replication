@@ -1,0 +1,7 @@
+{
+  "instance_id": "N0100_R01_W2",
+  "replicate": 1,
+  "window_size": 2,
+  "total_passengers": 100,
+  "train_capacity": 10
+}

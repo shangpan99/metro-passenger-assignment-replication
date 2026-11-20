@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+/runs/
+/methods/proposed_pb/runs/
+/methods/gurobi/runs/
+/methods/proposed_pb/outputs/
+/methods/proposed_pb/three_methods/outputs/

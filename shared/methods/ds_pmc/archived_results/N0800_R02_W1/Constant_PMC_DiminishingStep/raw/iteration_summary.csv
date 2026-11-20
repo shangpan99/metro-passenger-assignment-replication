@@ -1,0 +1,2 @@
+iteration,objective,total_travel_time,total_waiting_time,state_version,active_od,neighborhood_order,moved_agent_count,elapsed_seconds,record_type,accepted_by,h_order,q,donor_path,donor_departure,receiver_path,receiver_departure,moved_agent_ids,actual_objective_delta,objective_before,second_od,second_donor_path,second_donor_departure,second_receiver_path,second_receiver_departure,second_q,second_depth,second_moved_agent_ids,move_type,surrogate_objective_delta
+0,25335,25335,5537,0,,0,0,0,INITIAL,INITIAL,0,0,,,,,,,,,,,,,,,,,

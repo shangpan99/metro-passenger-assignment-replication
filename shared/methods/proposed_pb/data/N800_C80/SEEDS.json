@@ -1,0 +1,62 @@
+[
+  {
+    "replicate": 1,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0x51dcd020b323f7981d1f6e4df5660c7c413af29c32d164bc83770046a0c11ced",
+    "initialization_seed_hex": "0x35642e1ea2cdabc4830e17bd77102a3ba85495c272ba9915f8f59d534b395866"
+  },
+  {
+    "replicate": 2,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0x8b1422723611949a382cc6ed82fab2c4380f6596672c5bb4bdd8e3cc13e2acb8",
+    "initialization_seed_hex": "0x58d3d58d5e4f0d44d34d5078f1fc226bd65e04f0f6fdedb7d6a5de1a4df867f5"
+  },
+  {
+    "replicate": 3,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0x6810e996ff79bd4e515856ee879ca4982f45ec83002d00e2c714ec2d79c24436",
+    "initialization_seed_hex": "0x92256837f264a45abac15ffaeb7ab8e555edf79237d0aafa795bea3b16eb7c16"
+  },
+  {
+    "replicate": 4,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0xc2299f05787ac63798a7dda8cdaabaccaf03a507100f017088555e60ebc2f075",
+    "initialization_seed_hex": "0x5d85f781fafae8837321918212f63fbbd208829a87f542750a982908b5fa942e"
+  },
+  {
+    "replicate": 5,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0x223e7e053c7f369a47f1c804c5ad1550dcb00c317b02277e0e523827b20f0734",
+    "initialization_seed_hex": "0xa03a2bd93ac6e72a38d6456267ab2943edca4138e1024028f136b54b27812704"
+  },
+  {
+    "replicate": 6,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0x632b50e20f8d25be262f80e45bfd30ab9b575c3797ce11afcc5cd0f31949a512",
+    "initialization_seed_hex": "0x8b30523cb10ba0e0d644a29cda8b971451ca345733aa5a1dd70c6a0075e02af5"
+  },
+  {
+    "replicate": 7,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0x848a9e8bace10d39cf6ac008ddcaf07f127d30e30071e5c61813167aa90bd3cc",
+    "initialization_seed_hex": "0x2f00cd15458cc3d9bc01343d4942ff04aea7c24727031ad83fcb66e885a088bf"
+  },
+  {
+    "replicate": 8,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0x36608266d1f2240292bc725a93ba48ddae03acaa7082f1a7d96bfc71dd4ccd03",
+    "initialization_seed_hex": "0x7fa32d2d3692564f962ba0304da61555bf01b55a8c32dc3cbac6dfd06d3f3478"
+  },
+  {
+    "replicate": 9,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0xe06d06152fde58ee93ac320e7576d6df2e71267b7559ef1cc6c401787e59ab09",
+    "initialization_seed_hex": "0xcd51a7bb8c22078d804e94dc56a16a0a543cf4bb02191fee7f6f4ec5b98d1ac9"
+  },
+  {
+    "replicate": 10,
+    "master_seed": 20261023,
+    "demand_seed_hex": "0xfff4356f1baead06703a62c9b19181dec838367de374ba7c61e9df93aba28c25",
+    "initialization_seed_hex": "0xd641ca7e6fe7d97c174e535e651e4ccce091c40ba8fc6febd53a36ba7fe46316"
+  }
+]

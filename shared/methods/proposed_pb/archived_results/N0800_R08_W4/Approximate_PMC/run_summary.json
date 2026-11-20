@@ -1,0 +1,23 @@
+{
+  "instance_id": "N0800_R08_W4",
+  "method": "Approximate_PMC",
+  "status": "H8_APPROXIMATE_PMC_SEARCH_EXHAUSTED",
+  "initial_assignment_sha256": "6703a9df7fb725709209cebe7b0f87794757a2b497c3d6c5ffee2210200efc1e",
+  "initial_objective": 26092,
+  "final_objective": 23897,
+  "accepted_updates": 146,
+  "max_order_checked": 8,
+  "local_optimum_certified": false,
+  "global_optimum_proven": false,
+  "computation_seconds": 126.0343854,
+  "complete_wall_time_seconds": 126.0826989,
+  "parallel_methods": false,
+  "ell_max": 8,
+  "initialization_code": "SHORTEST_MIDDLE_EARLY",
+  "computation_time_limit_seconds": 1800,
+  "total_travel_time": 23897,
+  "total_waiting_time": 4064,
+  "total_nonwaiting_time": 19833,
+  "total_passengers": 800,
+  "final_full_loading_verified": true
+}

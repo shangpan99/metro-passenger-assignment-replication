@@ -1,0 +1,4 @@
+# The archived input fingerprints are calculated from the original bytes.
+*.csv -text
+*.json -text
+*.bat text eol=crlf

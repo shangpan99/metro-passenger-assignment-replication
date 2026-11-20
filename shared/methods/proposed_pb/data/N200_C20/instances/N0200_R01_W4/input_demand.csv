@@ -1,0 +1,9 @@
+﻿od_id,origion,destination,demand,departure_time_earliest,departure_time_latest,path_id_list,arrival_time_earliest,arrival_time_latest
+1,1,5,19,5,8,1,23,25
+2,1,6,24,5,8,2,36,38
+3,2,5,23,23,26,3,65,67
+4,2,6,35,23,26,4;5,57,57
+5,3,5,41,14,17,6,44,44
+6,3,6,16,14,17,7;8,32,34
+7,4,5,20,1,4,9;10,29,31
+8,4,6,22,1,4,11;12,36,38

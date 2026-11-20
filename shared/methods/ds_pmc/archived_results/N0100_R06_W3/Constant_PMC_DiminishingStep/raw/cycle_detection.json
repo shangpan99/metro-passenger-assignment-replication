@@ -1,0 +1,12 @@
+{
+  "status": "CYCLE_DETECTED_NOT_CERTIFIED",
+  "local_optimum_certified": false,
+  "cycle_detected": true,
+  "cycle_start_iteration": 21,
+  "cycle_detection_iteration": 23,
+  "cycle_length": 2,
+  "cycle_state_hash": "6a05c0c25cd72c73",
+  "cycle_step_condition": "ALL_FUTURE_STEPS_ARE_ONE",
+  "cycle_objective_min": 2975,
+  "cycle_objective_max": 2976
+}

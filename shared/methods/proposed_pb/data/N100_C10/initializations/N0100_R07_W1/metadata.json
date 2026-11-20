@@ -1,0 +1,32 @@
+{
+  "instance_id": "N0100_R07_W1",
+  "replicate": 7,
+  "window_size": 1,
+  "initialization_code": "SHORTEST_MIDDLE_EARLY",
+  "passengers": 100,
+  "master_seed": 20261023,
+  "demand_seed_hex": "0x848a9e8bace10d39cf6ac008ddcaf07f127d30e30071e5c61813167aa90bd3cc",
+  "initialization_seed_hex": "0x2f00cd15458cc3d9bc01343d4942ff04aea7c24727031ad83fcb66e885a088bf",
+  "od_counts": {
+    "1": 12,
+    "2": 8,
+    "3": 11,
+    "4": 13,
+    "5": 21,
+    "6": 16,
+    "7": 13,
+    "8": 6
+  },
+  "initial_objective": 3004.0,
+  "full_loading_feasible": true,
+  "input_sha256": {
+    "input_demand.csv": "22164ccd5a217ffe3cfd5f3f97f70a62c1e4ef5e0636209410ecab69f9849546",
+    "input_link.csv": "e9780f418ee8f76b7a43e459ca82a40a42988d9a52c7631b2487312cda75cae8",
+    "input_node.csv": "33bea170b1668f0360d718d105daf592f2c8c23525d98b34f7ced509b25793c4",
+    "input_path.csv": "9311fe2aae87efe00ffa9f4d0f2c8b7e800ec6a1c57cbf89f3a4fcace6b78b39",
+    "input_train_timetable.csv": "b33e714b06b60a28ea0cd8d2243a9fdc29c16201fca164b1697d183324f8aeee"
+  },
+  "agent_demand_sha256": "d0c1376f1450089f801fcb2e7ce84632cbd87e7fce8e2b993d75bd324601760e",
+  "initial_agents_sha256": "057b282b033e5362839b7ae2b5866ab343ba0ae38beab82cbdb405e627f46871",
+  "mip_start_sha256": "aa4cf38a135775c68e5d0973b6b6cebd398580164be222384dfbf8b064b5dcfa"
+}

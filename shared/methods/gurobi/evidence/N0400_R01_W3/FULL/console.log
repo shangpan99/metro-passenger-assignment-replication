@@ -1,0 +1,6 @@
+# Excerpt from the original Gurobi console log.
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (win64 - Windows 11+.0 (26300.2))
+Explored 0 nodes (0 simplex iterations) in 1652.90 seconds (3598.17 work units)
+Solution count 0
+Time limit reached
+Best objective -, best bound -, gap -

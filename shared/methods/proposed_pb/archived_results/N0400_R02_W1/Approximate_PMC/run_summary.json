@@ -1,0 +1,23 @@
+{
+  "instance_id": "N0400_R02_W1",
+  "method": "Approximate_PMC",
+  "status": "H8_APPROXIMATE_PMC_SEARCH_EXHAUSTED",
+  "initial_assignment_sha256": "73acfea6ea45b2cdad6e28f6872c5cf296feab48993cc67f492f78e82d25030b",
+  "initial_objective": 12676,
+  "final_objective": 12676,
+  "accepted_updates": 0,
+  "max_order_checked": 8,
+  "local_optimum_certified": false,
+  "global_optimum_proven": false,
+  "computation_seconds": 0.6866684,
+  "complete_wall_time_seconds": 0.7077674,
+  "parallel_methods": false,
+  "ell_max": 8,
+  "initialization_code": "SHORTEST_MIDDLE_EARLY",
+  "computation_time_limit_seconds": 1800,
+  "total_travel_time": 12676,
+  "total_waiting_time": 2739,
+  "total_nonwaiting_time": 9937,
+  "total_passengers": 400,
+  "final_full_loading_verified": true
+}
